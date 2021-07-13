@@ -1,2 +1,2 @@
-# Did-ctica
+# Didactica
 repositorio con fines académicos
